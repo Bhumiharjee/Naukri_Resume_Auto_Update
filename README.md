@@ -51,7 +51,7 @@ pip install selenium
 - Check your Chrome version by visiting: `chrome://settings/help`
 - Download matching ChromeDriver from:  
   https://sites.google.com/chromium.org/driver/
-- Or downlode it from Google apis
+- Or downlode it from Google apis (update this URL according to you chrome version and win 32 or 64 )
   https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.85/win64/chromedriver-win64.zip
 
 - Extract the downloaded file and do the following:
